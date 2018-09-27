@@ -1,6 +1,6 @@
 ## Welcome to PMSS Programming Club!
 
-## [News & Updates](https://pmsscoding.github.io/news)
+### [News & Updates](https://pmsscoding.github.io/news)
 
 ### Links:<br>
 
