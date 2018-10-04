@@ -4,18 +4,18 @@
 
 Please bring your laptops
 
-How To Install Eclipse:
+**How To Install Eclipse:**
 
 http://www.ntu.edu.sg/home/ehchua/programming/howto/eclipsejava_howto.html
 
 Step 1:
-Download the latest version of the Java JDK
+Download the latest version of the Java JDK<br>
 http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
 Run the installer & follow instructions
 
 Step 2: 
-Download the latest version of eclipse
+Download the latest version of eclipse<br>
 https://www.eclipse.org/downloads/
 
 Run the installer
