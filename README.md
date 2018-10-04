@@ -9,6 +9,7 @@
 
 [Online Java Compiler](https://www.jdoodle.com/online-java-compiler)<br>
 [Download Eclipse](https://www.eclipse.org/downloads/)<br>
+[Download JDK(&JRE)](https://www.oracle.com/technetwork/java/javase/downloads/index.html)<br>
 
 ### Contact Us:
 
