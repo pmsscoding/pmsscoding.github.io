@@ -1,5 +1,13 @@
 ## News & Updates
 
+### Tuesday, October 16th Meeting
+
+We learned about Scanners and reviewed print statements, variables, Integers & Strings
+
+### Thursday, October 11th Meeting
+
+We learned about print statements, variables, Integers & Strings, and if statements
+
 ### Thursday, October 4th Meeting
 
 Please bring your laptops
