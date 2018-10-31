@@ -1,22 +1,24 @@
 ## News & Updates
-**Tuesday, October 23th Meeting**
 
+**Tuesday, October 30th Meeting**
+Finish Choose your own adventure game project and practice some CCC problems for J1 & J3 (Problem link on Facebook Group)
+
+**Thursday, October 18th Meeting**
+Work on Choose your own adventure game project
+
+**Tuesday, October 23th Meeting**
 Review of if statements, switch statements and started the Choose your own adventure game project (due next Tuesday!)
 
 **Thursday, October 18th Meeting**
-
 Review of Scanners, variables, and learned about Doubles, Chars and Booleans
 
 **Tuesday, October 16th Meeting**
-
 We learned about Scanners and reviewed print statements, variables, Integers & Strings
 
 **Thursday, October 11th Meeting**
-
 We learned about print statements, variables, Integers & Strings, and if statements
 
 **Thursday, October 4th Meeting**
-
 Please bring your laptops
 
 **How To Install Eclipse:**
