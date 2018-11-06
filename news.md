@@ -1,9 +1,15 @@
 ## News & Updates
 
+**Tuesday, November 6th Meeting**
+Introducing while & do/while loops, sum(1->n) and prime number problems
+
+**Thursday, November 1st Meeting**
+Reveal the answers to CCC problems and continue working on project/problems
+
 **Tuesday, October 30th Meeting**
 Finish Choose your own adventure game project and practice some CCC problems for J1 & J3 (Problem link on Facebook Group)
 
-**Thursday, October 18th Meeting**
+**Thursday, October 26th Meeting**
 Work on Choose your own adventure game project
 
 **Tuesday, October 23th Meeting**
