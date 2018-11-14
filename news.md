@@ -1,5 +1,11 @@
 ## News & Updates
 
+**Tuesday, November 13th Meeting**
+Introduction to the text-based RPG project and slot machine game
+
+**Thursday, November 9th Meeting**
+Practice of loops & terms of service problems
+
 **Tuesday, November 6th Meeting**
 Introducing while & do/while loops, sum(1->n) and prime number problems
 
