@@ -1,5 +1,11 @@
 ## News & Updates
 
+**Tuesday, November 20th Meeting**
+Introduction to arrays & using loops with the arrays. Problems included: print out only the odd numbers of an array, find the mean of the array, and finding the mode.
+
+**Thursday, November 15th Meeting**
+Practice of loops & work on slot machine game
+
 **Tuesday, November 13th Meeting**
 Introduction to the text-based RPG project and slot machine game
 
