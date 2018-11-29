@@ -1,5 +1,12 @@
 ## News & Updates
 
+**Tuesday, November 27th Meeting**
+Uses of Arrays: Prepend, Append/push, remove/pop, shift, insert, copy, concatenate/combine, split/chunk, slice, splice, sort, reverse, rotate, count, sum, product, filter, shuffle, walk, unique, search, random, reduce, map, fill
+Working on text-based rpg pokemon game
+
+**Thursday, November 22th Meeting**
+Working on text-based rpg pokemon game
+
 **Tuesday, November 20th Meeting**
 Introduction to arrays & using loops with the arrays. Problems included: print out only the odd numbers of an array, find the mean of the array, and finding the mode.
 
