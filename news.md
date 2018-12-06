@@ -1,5 +1,8 @@
 ## News & Updates
 
+**Tuesday, December 4th Meeting**
+Nested Arrays
+
 **Thursday, November 29th Meeting**
 Uses of Arrays: Prepend, Append/push, remove/pop, shift, insert, copy, concatenate/combine, split/chunk, slice, splice, sort, reverse, rotate, count, sum, product, filter, shuffle, walk, unique, search, random, reduce, map, fill
 Working on text-based rpg pokemon game
