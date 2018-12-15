@@ -1,5 +1,11 @@
 ## News & Updates
 
+**Tuesday December 11th Meeting**
+CCC Problems: Palindrome
+
+**Thursday December 6th Meeting**
+CCC Problems: Magic Squares
+
 **Tuesday, December 4th Meeting**
 Nested Arrays
 
