@@ -1,4 +1,12 @@
 ## News & Updates
+**Thursday December 20th Meeting**
+Introduction to Functions
+
+**Tuesday December 18th Meeting**
+CCC Problems
+
+**Thursday December 13th Meeting**
+CCC Problems
 
 **Tuesday December 11th Meeting**
 CCC Problems: Palindrome
