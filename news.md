@@ -1,4 +1,10 @@
 ## News & Updates
+**Thursday January 10th Meeting**
+Recursion & memoization, optimization of algorithms
+
+**Tuesday January 8th Meeting**
+CCC Signups & working on projects
+
 **Thursday December 20th Meeting**
 Introduction to Functions
 
