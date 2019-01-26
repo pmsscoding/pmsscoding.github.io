@@ -1,4 +1,11 @@
 ## News & Updates
+
+## SIGNUPS FOR CANADIAN COMPUTING COMPETITION NOW OPEN! SIGN UP TODAY AT LUNCH ON TUESDAYS & THURSDAYS IN ROOM 212<br>
+## DEADLINE FOR SIGNUPS IS FEBRUARY 1ST<br>
+
+https://www.cemc.uwaterloo.ca/contests/computing.html
+
+
 **Thursday January 10th Meeting**
 Recursion & memoization, optimization of algorithms
 
