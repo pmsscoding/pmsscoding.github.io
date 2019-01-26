@@ -3,6 +3,8 @@
 ### SIGNUPS FOR CANADIAN COMPUTING COMPETITION NOW OPEN! SIGN UP TODAY AT LUNCH ON TUESDAYS & THURSDAYS IN ROOM 212 <br>
 ### DEADLINE FOR SIGNUPS IS FEBRUARY 1ST
 
+https://www.cemc.uwaterloo.ca/contests/computing.html
+
 ### [News & Updates](https://pmsscoding.github.io/news)
 
 ### Links:<br>
