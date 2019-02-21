@@ -1,8 +1,6 @@
 ## Welcome to PMSS Programming Club!
 
-### CANADIAN COMPUTING COMPETITION ON THE 20th
-
-https://www.cemc.uwaterloo.ca/contests/computing.html
+### CONGRATULATIONS TO CANADIAN COMPUTING COMPETITION CONTESTANTS
 
 ### [News & Updates](https://pmsscoding.github.io/news)
 
