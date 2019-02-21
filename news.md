@@ -1,8 +1,6 @@
 ## News & Updates
 
-### CANADIAN COMPUTING COMPETITION ON THE 20TH
-
-https://www.cemc.uwaterloo.ca/contests/computing.html
+### CONGRATULATIONS TO CANADIAN COMPUTING COMPETITION CONTESTANTS
 
 
 **Thursday January 10th Meeting**
