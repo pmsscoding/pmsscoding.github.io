@@ -1,5 +1,7 @@
 ## Welcome to PMSS Programming Club!
 
+### 2020.05.28: Goodbye Everyone!
+
 ### CONGRATULATIONS TO CANADIAN COMPUTING COMPETITION CONTESTANTS
 
 ### [News & Updates](https://pmsscoding.github.io/news)
